@@ -217,7 +217,6 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
-    mini_portile2 (2.8.5)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
@@ -226,9 +225,6 @@ GEM
     mutex_m (0.2.0)
     net-http (0.4.1)
       uri
-    nokogiri (1.16.2)
-      mini_portile2 (~> 2.8.2)
-      racc (~> 1.4)
     nokogiri (1.16.2-aarch64-linux)
       racc (~> 1.4)
     nokogiri (1.16.2-arm-linux)
@@ -266,7 +262,8 @@ GEM
       faraday (>= 0.17.3, < 3)
     simpleidn (0.2.1)
       unf (~> 0.1.4)
-    terminal-table (1.6.0)
+    terminal-table (1.8.0)
+      unicode-display_width (~> 1.1, >= 1.1.1)
     typhoeus (1.4.1)
       ethon (>= 0.9.0)
     tzinfo (2.0.6)
@@ -274,26 +271,17 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.9.1)
+    unicode-display_width (1.8.0)
     uri (0.13.0)
     webrick (1.8.1)
 
 PLATFORMS
   aarch64-linux
-  aarch64-linux-android
-  aarch64-linux-gnu
-  aarch64-linux-musl
-  arm-linux-androideabi
-  arm-linux-gnueabihf
-  arm-linux-musleabihf
+  arm-linux
   arm64-darwin
   x86-linux
-  x86-linux-android
-  x86-linux-gnu
-  x86-linux-musl
   x86_64-darwin
-  x86_64-linux-android
-  x86_64-linux-gnu
-  x86_64-linux-musl
+  x86_64-linux
 
 DEPENDENCIES
   github-pages (~> 229)
