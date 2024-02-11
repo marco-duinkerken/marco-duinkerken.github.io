@@ -1,6 +1,9 @@
 baseurl: '/'
 permalink: pretty
 title: 'Jekyll Serif'
+dependencies:
+  - gem: github-pages
+    version: '~> 228'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
