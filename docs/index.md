@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Dewpoint Advisory
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
-show_call_box: true
+description: At Dewpoint Advisory, we transform data practices to drive efficiency and informed decisions. Connect with us to explore how we can support your data strategy, governance, and analytics needs.
+-- intro_image: "images/illustrations/pointing.svg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
+show_call_box: false
 ---
 
-# Serif - A Jekyll Business Theme.
+# Dewpoint Advisory - Elevate your data, empower your business.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+At Dewpoint Advisory, we transform data practices to drive efficiency and informed decisions. Connect with us to explore how we can support your data strategy, governance, and analytics needs.
