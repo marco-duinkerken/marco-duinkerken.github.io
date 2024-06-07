@@ -1,7 +1,7 @@
 ---
 title: "Marco Duinkerken"
 --date: 2018-11-19T10:47:58+10:00
---image: "images/team/marco-duinkerken.jpg"
+image: "images/team/marco-duinkerken.jpg"
 jobtitle: "Managing Director"
 linkedinurl: "https://www.linkedin.com/in/marco-duinkerken/"
 promoted: true
