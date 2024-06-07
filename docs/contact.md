@@ -4,13 +4,14 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+If you have any questions, need assistance, or want to learn more about our services, please don't hesitate to get in touch with us. We are here to help and look forward to hearing from you.
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
+| Monday    | 09:00 - 17:00   |
+| Tuesday   | 09:00 - 17:00   |
+| Wednesday | 09:00 - 17:00   |
+| Thursday  | 09:00 - 17:00   |
+| Friday    | 09:00 - 17:00   |
+| Saturday  | Closed          |
 | Saturday  | Closed          |
